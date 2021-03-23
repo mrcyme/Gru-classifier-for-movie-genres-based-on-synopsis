@@ -2,7 +2,7 @@
 
 This module provides an method to predict movie genre based on synopsis.
 
-It is a keras implementation of the multinomial GRU approach of [paper](https://www.researchgate.net/publication/322517980_Predicting_Movie_Genres_Based_on_Plot_Summaries).
+It is a keras implementation of the multinomial GRU approach of this [paper](https://www.researchgate.net/publication/322517980_Predicting_Movie_Genres_Based_on_Plot_Summaries).
 
     @article{article,
     author = {Hoang, Quan},
