@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+.*/
+
+# Python
+__pycache__
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Binaries
+*.pkl
+*.pickle
+*.cpkt
+*.data*
+*.index
+*.meta
+*.sav
+*.h5
+*.hdf5
+*.joblib
+*.pb
+*.gz
+*.zip
+*.so
+*.p
+*.yml
+*.sh
+*.md
+*.cfg
+**/challenge/*.txt
+
+tokenizer.json
+
+# Data
+submission.csv
+train.csv
+test.csv
+
+# Kaggle
+kaggle.json
