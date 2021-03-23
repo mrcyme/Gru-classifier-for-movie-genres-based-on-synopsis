@@ -33,8 +33,7 @@ tokenizer.json
 
 # Data
 submission.csv
-train.csv
-test.csv
+
 
 # Kaggle
 kaggle.json
