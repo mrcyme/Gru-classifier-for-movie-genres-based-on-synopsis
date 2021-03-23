@@ -17,6 +17,6 @@ You can find test and train data on [kaggle](https://www.kaggle.com/c/radix-chal
 The glove pretrain vectors can be downloaded [here](https://nlp.stanford.edu/projects/glove/).
 Embedding to use for the code is the 100d embedding.
 
-This code achieve a 68% Mean Average Precision at K for the top 5 predicted genres.
+This code achieve a 68% Mean Average Precision at K score for the top 5 predicted genres.
 
 
